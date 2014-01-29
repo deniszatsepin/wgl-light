@@ -1,0 +1,16 @@
+{
+  "name": "wgl-light",
+  "repo": "deniszatsepin/wgl-light",
+  "description": "Light sources for WebGl",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+	  "deniszatsepin/gl-matrix": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "light.js",
+  "scripts": [
+    "light.js"
+  ]
+}
